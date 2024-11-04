@@ -15,5 +15,5 @@
 
 
 ### DATA VISUALIZATION
-![Uploading Screenshot 2024-11-03 004030.png…]()
+
 ![Screenshot 2024-11-03 004030](https://github.com/user-attachments/assets/da5fd706-9eae-4364-8194-334e4ac08175)
