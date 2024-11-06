@@ -14,9 +14,9 @@
 ---
 ### TOOLS USED
 - PowerBI:
-   -For Data Transformation
-   -For Data Visualiazation
-   -For Creating Interactive Dashboard
+   - For Data Transformation
+   - For Data Visualiazation
+   - For Creating Interactive Dashboard
 - Github for creating portfolio
 
 ### DATA CLEANING AND PREPARATIONS
@@ -34,11 +34,19 @@
   - Attrition based on age groups and gender
 ---
 ### DATA ANALYSIS
+ This is where DAX Function is used to calculate the following analysis:
+   -Attrition rate using conditional column to know the number of employees that had left the organization. 
+   -Job satisfaction rate was also calculated using conditional column.
+  - Q&R AI Visual was used to perform some analysis such as Attrition Count, rate and so on.
+  - Measure was used to generate the total revenue, percentage of attrition rate and average age.
+---
+ ### DATA VISUALIZATION
+   The Key Insights are:
+    - Attrition count and rate
+    - Job satisfaction
+    - Current employees  
+
+ - ![Screenshot 2024-11-03 004030](https://github.com/user-attachments/assets/da5fd706-9eae-4364-8194-334e4ac08175)
+
+### INSIGHTS ANALYSIS
  
-
-### DATA VISUALIZATION
-   The table was then imported into PowerBI desktop for analysis.I transformed the Data in Power Query,checked for 
-   column quality,distribution, profile and Data types. Several expressions and functions were made to arrive at 
-   a desired KPIs or metrics. which are:
-
-![Screenshot 2024-11-03 004030](https://github.com/user-attachments/assets/da5fd706-9eae-4364-8194-334e4ac08175)
