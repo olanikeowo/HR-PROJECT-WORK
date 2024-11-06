@@ -6,7 +6,7 @@
 
 [DATA SOURCES](#data-sources)
 
-[ TOOLS USED](#tools-used)
+[TOOLS USED](#tools-used)
 
 [DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparation)
 
@@ -16,7 +16,7 @@
 
 [DATA VISUALIZATION](#data-visulization)
 
-[INSIGHTS ANALYSIS](#insights analysis)
+[INSIGHTS ANALYSIS](#insights-analysis)
 
 [RECOMMENDATION[(#recommendation)
 
