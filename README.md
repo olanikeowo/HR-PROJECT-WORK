@@ -18,7 +18,7 @@
 
 [INSIGHTS ANALYSIS](#insights-analysis)
 
-[RECOMMENDATION[(#recommendation)
+[RECOMMENDATION](#recommendation)
 
 ---
 ### PROJECT DESCRIPTION
