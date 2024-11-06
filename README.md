@@ -49,4 +49,21 @@
  - ![Screenshot 2024-11-03 004030](https://github.com/user-attachments/assets/da5fd706-9eae-4364-8194-334e4ac08175)
 
 ### INSIGHTS ANALYSIS
- 
+    - The gender with the highest sum of attrition count is male with the total number of 150 out of 237
+    - The Edcucation field with the highest sum of attrition count is Life Science with the attrition count of 89 
+    - The Edcucation field with the highest no of current employees is Bachelor's Degree which is the total of 473
+    - The age band with the highest number of attrition count is  within the range of 25-34 with the attrition count of 112
+    - The department with the highest number of attrition count is R&D with the total number of 133
+
+    - The Dashboard to illustrate the findings:
+    
+-  ![Screenshot 2024-11-06 101749](https://github.com/user-attachments/assets/fe0f44bc-52f4-49b6-b632-ae4c50e0b430)
+-  
+  
+-  ![Screenshot 2024-11-06 101731](https://github.com/user-attachments/assets/35924bd7-4581-43a3-a226-c61d94994a07)
+
+### RECOMMENDATION
+ Based on the analysis done, there is higher number of attrition count to current employees, I recommend, there should be an increase 
+ in employees's salaries, necessary compensations should be given and regular communication with the employees to understand their concerns and
+ address them to know if the organization's policies are bad.
+
