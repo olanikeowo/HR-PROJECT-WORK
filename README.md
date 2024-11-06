@@ -1,6 +1,25 @@
 ## HR_PROJECT_WORK
 
 ### TITLE: HUMAN RESOURCES DATA ANALYSIS TRACKER
+
+[PROJECT DESCRIPTION](#project-description)
+
+[DATA SOURCES](#data-sources)
+
+[ TOOLS USED](#tools-used)
+
+[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparation)
+
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+
+[DATA ANALYSIS](#data-analysis)
+
+[DATA VISUALIZATION](#data-visulization)
+
+[INSIGHTS ANALYSIS](#insights analysis)
+
+[RECOMMENDATION[(#recommendation)
+
 ---
 ### PROJECT DESCRIPTION
     This is an analysis of the Human Resources Dapartment. It is done by analyzing data using business 
@@ -18,7 +37,7 @@
    - For Data Visualiazation
    - For Creating Interactive Dashboard
 - Github for creating portfolio
-
+ --- 
 ### DATA CLEANING AND PREPARATIONS
   In the initial of the Data cleaning and preparation, the following actions were performed;
    - Data loading and inspection
