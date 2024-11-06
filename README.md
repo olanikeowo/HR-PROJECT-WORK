@@ -83,6 +83,6 @@
 
 ### RECOMMENDATION
  Based on the analysis done, there is higher number of attrition count to current employees, I recommend, there should be an increase 
- in employees's salaries, necessary compensations should be given and regular communication with the employees to understand their concerns and
- address them to know if the organization's policies are bad.
+ in employees's salaries, bonuses should be given to the employees for encouragement and regular communication with the employees be done 
+ to understand their concerns and address them to know if the organization's policies are bad.
 
