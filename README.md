@@ -22,14 +22,16 @@
 
 ---
 ### PROJECT DESCRIPTION
-    This is an analysis of the Human Resources Dapartment. It is done by analyzing data using business 
-    intelligence tool(PowerBI) to discover the key insights such as attrition rate,total number of current
-    employeee, and job satisfaction rate. Thereafter, the dataset was being imported into Power Query for
-    cleaning before the actual analysis was carried out in order to discover data-driven insights 
+    This is an analysis of the Human Resources Dapartment. It is done by analyzing
+    data using business intelligence tool(PowerBI) to discover the key insights such as
+    attrition rate,total number of current employeee, and job satisfaction rate. 
+    Thereafter, the dataset was being imported into Power Query for cleaning before 
+    the actual analysis was carried out in order to discover data-driven insights.
 ---
 ### DATA SOURCES
-    The Data used for this project work is gotten from LITA Incubator Hub.The primary source of the Data is Data CSV 
-    and it is an open source Data that can be freely downloadedfrom Kaggle or any other Data repository site.
+    The Data used for this project work is gotten from LITA Incubator Hub.
+    The primary source of the Data is Data CSV and it is an open source Data
+    that can be freely downloaded from Kaggle or any other Data repository site.
 ---
 ### TOOLS USED
 - PowerBI:
@@ -83,6 +85,6 @@
 
 ### RECOMMENDATION
  Based on the analysis done, there is higher number of attrition count to current employees, I recommend, there should be an increase 
- in employees's salaries, bonuses should be given to the employees for encouragement and regular communication with the employees
+ in employees's salaries, incentives and bonuses should be given to the employees for encouragement and regular communication with the employees
  should be done to understand their concerns and address them to know if the organization's policies are bad.
 
